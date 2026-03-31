@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Hi,+I'm+Vedant+Wasalwar;B.Tech+(CSE)+Student;Web+%26+App+Developer;Flutter+%7C+React+%7C+Django&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines= Hi,+I'm+Vedant+Wasalwar;B.Tech+(CSE)+Student;Web+%26+App+Developer; Flutter+%7C+React+%7C+Django&size=30">
 </h1>
 
 <h3 align="center">🎓 B.Tech (CSE) Student | 💻 Web & App Developer</h3>
