@@ -1,7 +1,8 @@
-<h1 align="center">👋 Hi, I'm Vedant Wasalwar</h1>
-<h3 align="center">🎓 B.Tech (CSE) Student | 💻 Web & App Developer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Vedant+Wasalwar;B.Tech+(CSE)+Student;Web+%26+App+Developer;Flutter+%7C+React+%7C+Django&center=true&size=30">
+</h1>
 
----
+<h3 align="center">🎓 B.Tech (CSE) Student | 💻 Web & App Developer</h3>
 
 ## 🚀 About Me
 - 💻 Passionate about Web Development  
