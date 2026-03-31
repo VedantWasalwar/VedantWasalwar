@@ -4,14 +4,7 @@
 
 <h3 align="center">🎓 B.Tech (CSE) Student | 💻 Web & App Developer</h3>
 
----
 
-## 🚀 Live Developer Dashboard
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥-Learning%20Backend%20%26%20Cyber%20Security-green?style=for-the-badge">
-</p>
-
----
 
 ## 🧑‍💻 About Me
 - 💻 Passionate about Web Development  
@@ -72,10 +65,6 @@
 
 ---
 
-## 🌐 Live Projects
-- 🔗 Frontend: https://heartfelt-torte-78d8ed.netlify.app/  
-- 🔗 Backend: https://fullstack-web-development-registration-w0os.onrender.com  
 
----
 
 ⭐ If you like my work, don't forget to star my repositories!
