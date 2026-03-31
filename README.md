@@ -32,15 +32,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python,flutter,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantWasalwar&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 📈 Activity Graph
 
