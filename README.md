@@ -14,13 +14,19 @@
 
 ## 🔗 Connect With Me
 <p align="center">
+  <a href="mailto:vedantwasalwar43@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/VedantWasalwar">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
   <a href="https://leetcode.com/u/vedant123/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
   <a href="https://www.hackerrank.com/profile/vedantwasalwar_1">
     <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank">
   </a>
-  <a href="linkedin.com/in/vedant-wasalwar-b2128128b">
+  <a href="https://www.linkedin.com/in/vedant-wasalwar-b2128128b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://codolio.com/profile/VedantW">
