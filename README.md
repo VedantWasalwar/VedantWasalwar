@@ -30,6 +30,22 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python,flutter,git,github,vscode" />
 </p>
 
+## 🌐 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank">
+  </a>
+  <a href="https://codolio.com/profile/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Codolio-blue?style=for-the-badge">
+  </a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/YOUR_ID">
+    <img src="https://img.shields.io/badge/Google%20Cloud-blue?style=for-the-badge&logo=googlecloud">
+  </a>
+</p>
 
 ## 📈 Activity Graph
 
