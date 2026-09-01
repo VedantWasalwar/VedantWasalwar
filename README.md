@@ -43,9 +43,18 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python,flutter,git,github,vscode" />
 </p>
 
-## 📈 GitHub Activity
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantWasalwar&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" /> </p>
+## 📈 GitHub Activity & Analytics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantWasalwar&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" alt="Activity Graph" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantWasalwar&theme=tokyonight&border=00F7FF&stroke=00F7FF&sideLabels=00F7FF&background=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantWasalwar&show_icons=true&theme=tokyonight&border_color=00F7FF&title_color=00F7FF&icon_color=00F7FF&count_private=true&include_all_commits=true" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VedantWasalwar&theme=tokyonight" width="100%" alt="3D Profile Activity" />
+</p>
 
 ## Contribution Animation
 
