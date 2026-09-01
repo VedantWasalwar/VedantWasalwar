@@ -45,9 +45,7 @@
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantWasalwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantWasalwar&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" /> </p>
 
 ## Contribution Animation
 
