@@ -43,13 +43,15 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django,python,flutter,git,github,vscode" />
 </p>
 
-## 📈 Activity Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VedantWasalwar&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VedantWasalwar&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VedantWasalwar&theme=tokyonight&hide_border=true" />
+</p>
 
 ## Contribution Animation
 
