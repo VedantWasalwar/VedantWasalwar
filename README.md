@@ -14,9 +14,7 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="mailto:vedantwasalwar43@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
-  </a>
+ 
   <a href="https://github.com/VedantWasalwar">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
